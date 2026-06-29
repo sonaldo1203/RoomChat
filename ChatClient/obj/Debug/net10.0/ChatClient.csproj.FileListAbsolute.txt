@@ -1,0 +1,5 @@
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0\ChatClient.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0\ChatClient.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0\ChatClient.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0\ChatClient.csproj.CoreCompileInputs.cache

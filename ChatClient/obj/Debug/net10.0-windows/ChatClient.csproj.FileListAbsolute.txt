@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0-windows\ChatClient.MainForm.resources
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0-windows\ChatClient.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0-windows\ChatClient.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0-windows\ChatClient.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\bin\Debug\net10.0-windows\ChatClient.exe
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\bin\Debug\net10.0-windows\ChatClient.deps.json
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\bin\Debug\net10.0-windows\ChatClient.runtimeconfig.json
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\bin\Debug\net10.0-windows\ChatClient.dll
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\bin\Debug\net10.0-windows\ChatClient.pdb
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0-windows\ChatClient.dll
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0-windows\refint\ChatClient.dll
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0-windows\ChatClient.pdb
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0-windows\ChatClient.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\RoomChat\ChatClient\obj\Debug\net10.0-windows\ref\ChatClient.dll

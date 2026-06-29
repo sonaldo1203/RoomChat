@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A061BC-ADA6-341D-6A6B-9AE987D02BFD}|ChatServer\\ChatServer.csproj|c:\\users\\admin\\source\\repos\\roomchat\\chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A061BC-ADA6-341D-6A6B-9AE987D02BFD}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C779C1-094B-C540-16C1-83D00A1D7236}|ChatClient\\ChatClient.csproj|c:\\users\\admin\\source\\repos\\roomchat\\chatclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C779C1-094B-C540-16C1-83D00A1D7236}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C779C1-094B-C540-16C1-83D00A1D7236}|ChatClient\\ChatClient.csproj|c:\\users\\admin\\source\\repos\\roomchat\\chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C779C1-094B-C540-16C1-83D00A1D7236}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C779C1-094B-C540-16C1-83D00A1D7236}|ChatClient\\ChatClient.csproj|c:\\users\\admin\\source\\repos\\roomchat\\chatclient\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C779C1-094B-C540-16C1-83D00A1D7236}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C779C1-094B-C540-16C1-83D00A1D7236}|ChatClient\\ChatClient.csproj|C:\\Users\\ADMIN\\source\\repos\\RoomChat\\chatclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C779C1-094B-C540-16C1-83D00A1D7236}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A061BC-ADA6-341D-6A6B-9AE987D02BFD}|ChatServer\\ChatServer.csproj|c:\\users\\admin\\source\\repos\\roomchat\\chatserver\\chatserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5A061BC-ADA6-341D-6A6B-9AE987D02BFD}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\chatserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A061BC-ADA6-341D-6A6B-9AE987D02BFD}|ChatServer\\ChatServer.csproj|c:\\users\\admin\\source\\repos\\roomchat\\chatserver\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A061BC-ADA6-341D-6A6B-9AE987D02BFD}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A061BC-ADA6-341D-6A6B-9AE987D02BFD}|ChatServer\\ChatServer.csproj|c:\\users\\admin\\source\\repos\\roomchat\\chatserver\\messageprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A061BC-ADA6-341D-6A6B-9AE987D02BFD}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\messageprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A061BC-ADA6-341D-6A6B-9AE987D02BFD}|ChatServer\\ChatServer.csproj|c:\\users\\admin\\source\\repos\\roomchat\\chatserver\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A061BC-ADA6-341D-6A6B-9AE987D02BFD}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A061BC-ADA6-341D-6A6B-9AE987D02BFD}|ChatServer\\ChatServer.csproj|c:\\users\\admin\\source\\repos\\roomchat\\chatserver\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A061BC-ADA6-341D-6A6B-9AE987D02BFD}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C779C1-094B-C540-16C1-83D00A1D7236}|ChatClient\\ChatClient.csproj|c:\\users\\admin\\source\\repos\\roomchat\\chatclient\\chatclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28C779C1-094B-C540-16C1-83D00A1D7236}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatServer.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatServer\\ChatServer.csproj",
+              "RelativeDocumentMoniker": "ChatServer\\ChatServer.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatServer\\ChatServer.csproj",
+              "RelativeToolTip": "ChatServer\\ChatServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-28T18:33:26.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatClient\\MainForm.cs",
+              "RelativeDocumentMoniker": "ChatClient\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatClient\\MainForm.cs",
+              "RelativeToolTip": "ChatClient\\MainForm.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T14:11:14.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatClient\\Program.cs",
+              "RelativeDocumentMoniker": "ChatClient\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatClient\\Program.cs",
+              "RelativeToolTip": "ChatClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T14:09:31.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatClient.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatClient\\ChatClient.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClient.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatClient\\ChatClient.cs",
+              "RelativeToolTip": "ChatClient\\ChatClient.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAADwv+MAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T14:11:07.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageProtocol.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatServer\\MessageProtocol.cs",
+              "RelativeDocumentMoniker": "ChatServer\\MessageProtocol.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatServer\\MessageProtocol.cs",
+              "RelativeToolTip": "ChatServer\\MessageProtocol.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T14:10:55.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatServer\\Room.cs",
+              "RelativeDocumentMoniker": "ChatServer\\Room.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatServer\\Room.cs",
+              "RelativeToolTip": "ChatServer\\Room.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T14:10:43.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatServer\\ClientHandler.cs",
+              "RelativeDocumentMoniker": "ChatServer\\ClientHandler.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatServer\\ClientHandler.cs",
+              "RelativeToolTip": "ChatServer\\ClientHandler.cs",
+              "ViewState": "AgIAAOcBAAAAAAAAAAAowA4CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T14:10:33.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatServer\\ChatServer.cs",
+              "RelativeDocumentMoniker": "ChatServer\\ChatServer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatServer\\ChatServer.cs",
+              "RelativeToolTip": "ChatServer\\ChatServer.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAgwDYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T14:10:10.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatClient.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatClient\\ChatClient.csproj",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClient.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatClient\\ChatClient.csproj",
+              "RelativeToolTip": "ChatClient\\ChatClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-28T18:37:50.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatServer\\Program.cs",
+              "RelativeDocumentMoniker": "ChatServer\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatServer\\Program.cs",
+              "RelativeToolTip": "ChatServer\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T14:09:08.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatClient\\MainForm.cs",
+              "RelativeDocumentMoniker": "ChatClient\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\RoomChat\\ChatClient\\MainForm.cs [Design]",
+              "RelativeToolTip": "ChatClient\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T18:39:16.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
