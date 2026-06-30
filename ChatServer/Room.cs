@@ -1,11 +1,4 @@
-﻿// ============================================================
-// File: Room.cs
-// Dự án: ChatServer
-// Mô tả: Đại diện cho một phòng chat.
-//        Mỗi phòng lưu tên và danh sách ClientHandler thành viên.
-//        Có hàm Broadcast() để gửi tin cho toàn bộ thành viên.
-// ============================================================
-
+﻿
 using System;
 using System.Collections.Generic;
 

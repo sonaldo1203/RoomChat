@@ -1,9 +1,4 @@
-﻿// ============================================================
-// Mô tả: Định nghĩa tất cả hằng số lệnh của giao thức text.
-//        Cả Server và Client đều tham chiếu đến các hằng số này
-//        để tránh lỗi gõ nhầm tên lệnh (magic string).
-// ============================================================
-
+﻿
 namespace ChatServer
 {
     public static class MessageProtocol

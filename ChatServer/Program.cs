@@ -1,8 +1,4 @@
-﻿// ============================================================
-// Mô tả: Điểm khởi động của Server.
-//        Đọc cấu hình cổng, tạo ChatServer và khởi động.
-// ============================================================
-
+﻿
 using System;
 
 namespace ChatServer

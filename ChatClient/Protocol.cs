@@ -1,11 +1,4 @@
-﻿// ============================================================
-// File: Protocol.cs
-// Dự án: ChatClient
-// Mô tả: Hằng số lệnh phía Client — hoàn toàn giống
-//        MessageProtocol.cs bên Server để đảm bảo cả hai
-//        phía dùng chung định dạng giao thức.
-// ============================================================
-
+﻿
 namespace ChatClient
 {
     public static class Protocol

@@ -1,11 +1,4 @@
-﻿// ============================================================
-// File: ChatServer.cs
-// Dự án: ChatServer
-// Mô tả: Lớp trung tâm của server.
-//        Khởi động TcpListener, chấp nhận kết nối mới,
-//        và cung cấp các phương thức dùng chung cho ClientHandler.
-// ============================================================
-
+﻿
 using System;
 using System.Collections.Generic;
 using System.Net;

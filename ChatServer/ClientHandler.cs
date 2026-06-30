@@ -1,11 +1,4 @@
-﻿// ============================================================
-// File: ClientHandler.cs
-// Dự án: ChatServer
-// Mô tả: Xử lý kết nối của MỘT client cụ thể.
-//        Chạy trong Thread riêng, đọc lệnh từ client,
-//        gọi ChatServer để xử lý logic và phản hồi.
-// ============================================================
-
+﻿
 using System;
 using System.IO;
 using System.Net.Sockets;

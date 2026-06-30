@@ -1,13 +1,4 @@
-﻿// ============================================================
-// File: ChatClient.cs
-// Dự án: ChatClient
-// Mô tả: Quản lý kết nối TCP tới Server.
-//        - Kết nối / ngắt kết nối
-//        - Gửi lệnh lên Server
-//        - Thread riêng để liên tục nhận tin từ Server
-//        - Dùng delegate/event để thông báo lên MainForm
-// ============================================================
-
+﻿
 using System;
 using System.IO;
 using System.Net.Sockets;
